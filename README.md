@@ -26,19 +26,14 @@ My responsibility was developing both front-end and back-end. Collaborating with
 - Mysql Query 구현  
 - User Authentication
 - React Component 생성 (tables, banners, poppers, Modals, buttons 등)
-- Schedule Push notification, VOD and Live Streaming
-- Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
-- Gitlab Administration
-- Translation Korean to English
-- Enable users to take a photo for a gift event
-- Help center embedding & Technical Support during the event
-- Responsive Design (Supports mobile devices)
-- Data statistics
-<!-- - Implement video chat
-- Implement text chat -->
-
-<!--
-I solved the most issues among the developers -->
+- 푸쉬 알람, VOD 그리고 라이브 스트리밍 스케줄링
+- 브라우저 호환 (Chrome, Safari, Firefox, MS Edge, IE11)
+- Gitlab branch, PR 관리 
+- 한국어 영어 번역
+- 외국인 유저 기술 지원 & 상담
+- 파일 업로드, 다운로드 기능 구현 
+- 반응형 디자인 (모바일 기기, 테블릿 지원)
+- 데이터 통계
 
 A screenshot demonstrating the number of the issues in [Jira](https://www.atlassian.com/software/jira) is below
 
