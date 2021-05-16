@@ -109,7 +109,7 @@
 ### 이 프로젝트의 성공은 10개 이상의 추가적인 계약을 성사 시켰습니다.
 
 #### 참조 - 본인이 작업했던 온라인 컨퍼런스 행사의 리스트입니다. 
-- [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) can be logged in with ID: host01@salin.co.kr PW: 1234
+- [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) 데모 계정 ID: host01@salin.co.kr PW: 1234
 - Asia TEFL Online Conference (Teaching English as a second or foreign language)
 
 ### 재사용 가능한 컴포넌트와 API를 만들었습니다.
