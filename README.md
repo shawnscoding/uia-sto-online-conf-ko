@@ -16,15 +16,16 @@
 
 My responsibility was developing both front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
 
-<!-- Particularly, I developed the front-end entirely on my own from scratch. -->
+저의 업무는 프런트 엔드와 백 엔드 모두를 개발하는 것이었습니다. 기획자, 디자이너 그리고 개발자들과 협업하며 프로젝트를 성공적으로 이끌어 가려 노력함에 더불어 고객과 최종 사용자의 요구사항을 명확히 파악해 필요한 기능만을 구현함으로 불 필요한 시간을 단축했습니다. 그 밖에도 애플리케이션 테스트 및 배포, 기존 소프트웨어의 문제 해결, 유지 관리 및 개선에 크게 기여했습니다.
+
 
 ### My responsibilities in this project include:
 
-- Front-end System Design
-- Build RESTful APIs in expressjs
-- CRUD data in Mysql DB Tables
+- Front-end 시스템 디자인 
+- Expressjs RESTful API 구현
+- Mysql Query 구현  
 - User Authentication
-- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- React Component 생성 (tables, banners, poppers, Modals, buttons 등)
 - Schedule Push notification, VOD and Live Streaming
 - Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
 - Gitlab Administration
