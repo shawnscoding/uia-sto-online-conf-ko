@@ -106,19 +106,19 @@
 
 # Achievement
 
-### 이 프로젝트의 성공은 10개 이상의 추가적인 계약을 성사 시켰습니다.
+### 1. 이 프로젝트의 성공은 10개 이상의 추가적인 계약을 성사 시켰습니다.
 
 #### 참조 - 본인이 작업했던 온라인 컨퍼런스 행사의 리스트입니다. 
 - [KHA Online Conference](https://khc2020.salin.co.kr) ( Korean Hospital Association ) 데모 계정 ID: host01@salin.co.kr PW: 1234
 - Asia TEFL Online Conference (Teaching English as a second or foreign language)
 
-### 재사용 가능한 컴포넌트와 API를 만들었습니다.
+### 2. 재사용 가능한 컴포넌트와 API를 만들었습니다.
 
 #### 참조 - [codesandbox]에 제작된 재사용 가능한 라디오 버튼입니다. (https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
-### 이 프로젝트는 본인이 리액트 오픈소스를 제작하게 되는 동기가 되었습니다.
+### 3. 이 프로젝트는 본인이 리액트 오픈소스를 제작하게 되는 동기가 되었습니다.
 
 #### [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
