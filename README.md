@@ -10,7 +10,7 @@
 - [Project Description](#Project-Description)
 - [Main Features](#Main-features)
 - [Achievement](#Achievement)
-- [Note](#note)
+- [Note](#Note)
 
 # Role & Responsibility
 
@@ -125,5 +125,5 @@
 
 Crontab (scheduling jobs)은 구현하는 것이 복잡할 뿐만 아니라 테스트하기도 까다로운 기능입니다. 하지만 플랫폼 특성상 이 기능은 매번 필요했습니다. 그 때마다 기능구현을 반복하는 것보다 모듈화해 매번 필요할 때마다 재사용하는 것이 효율적일 것이라 생각했습니다. 그래서 react-crontab 모듈화를 이행했으며, 작업 후 NPM에 open-source형태로 퍼블리싱해 누구나 쉽게 사용할 수 있게 제공했습니다. 현재 주당 평균 300명의 유저가 다운로드 받고 있습니다. 
 
-# 참고 사항
+# Note
 회사의 규정 상 본 프로젝트의 소스코드를 제공할 수 없습니다. 양해 부탁드립니다.
