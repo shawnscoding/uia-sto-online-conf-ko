@@ -21,8 +21,8 @@
 - Front-end 시스템 디자인 
 - Expressjs RESTful API 구현
 - Mysql Query 구현  
+- 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
 - User Authentication
-- React Component 생성 (tables, banners, poppers, Modals, buttons 등)
 - 푸쉬 알람, VOD 그리고 라이브 스트리밍 스케줄링
 - 브라우저 호환 (Chrome, Safari, Firefox, MS Edge, IE11)
 - Gitlab branch, PR 관리 
