@@ -1,6 +1,6 @@
 # UIA & STO Online Conference
 
-[![Watch the video](assets/virtual_seoul2.gif)](http://virtualseoul.or.kr/)
+[![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
 ## Table of Content
 
@@ -57,10 +57,10 @@
 
 ### Website URL
 
-#### [Link to the website](https://iclc2021.govent.io/)
+#### [Link to the website](https://wclf2021.miceworld.or.kr/)
 참고 - 현재는 행사기간이 아닌 관계로 대부분의 기능에 대한 접근이 차단되었습니다.
 
-[![Watch the video](assets/virtual_seoul2.gif)](https://iclc2021.govent.io/)
+[![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
 ### 데모 영상
 
