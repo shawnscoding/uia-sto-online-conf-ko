@@ -1,4 +1,4 @@
-# 국제협회연합(UIA) & 서울관광재단(STO) 국제 3D 온라인 컨퍼런스
+# 국제협회연합 & 서울관광재단 3D 온라인 컨퍼런스
 
 [![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
@@ -127,7 +127,7 @@
 #### [Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
-프런트 엔드에 Crontab(job scheduling)기능을 구현하는 것은 매번 필요했지만 구현하는데 많은 시간과 노력이 소비되었고 테스트하기도 까다로웠습니다. 필요할 때마다 구현을 반복하는 것보다 쉽게 재사용할 수 있도록 모듈화하는 것이 효율적일 것이라 생각하였습니다. [react-crontab](https://www.npmjs.com/package/reactjs-crontab)의 이름으로 모듈화를 이행했으며, 작업 후 NPM에 open-source형태로 퍼블리싱해 누구나 쉽게 사용할 수 있게끔 제공했습니다. 현재 주당 평균 200명의 유저가 다운로드 받고 있습니다. 
+많은 애플리케이션에서 Crontab (Job Scheduling) 기능을 필요로 합니다. 하지만 NPM 커뮤니티에 개발자들이 무료로 사용 가능한 오픈소스가 없다는 사실을 알게 되었고 이를 동기로 오픈소스 제작하여 전 세계 리액트 개발자에게 기여하게 되었습니다. 
 
 # Note
 회사의 규정 상 본 프로젝트의 소스코드를 제공할 수 없습니다. 양해 부탁드립니다.
