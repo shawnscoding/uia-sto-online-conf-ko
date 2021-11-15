@@ -23,14 +23,14 @@
 - Mysql Query 구현  
 - 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
 - User Authentication
-- 푸쉬 알람, VOD 그리고 라이브 스트리밍 스케줄링
+- Email, SMS, push 알림 자동화
 - 브라우저 호환 (Chrome, Safari, Firefox, MS Edge, IE11)
-- Gitlab branch, PR 관리 
+- 반응형 디자인 (모바일 기기, 테블릿 지원)
 - 한국어 영어 번역
 - 외국인 유저 기술 지원 & 상담
-- 파일 업로드, 다운로드 기능 구현 
-- 반응형 디자인 (모바일 기기, 테블릿 지원)
+- Linux Crontab을 이용해 DB Back-up, file upload 자동화 
 - 데이터 통계
+- Gitlab Admistration
 
 [Jira](https://www.atlassian.com/software/jira)에서 저에게 할당된 이슈의 수입니다. 
 
@@ -57,10 +57,10 @@
 
 ### Website URL
 
-#### [Link to the website](http://virtualseoul.or.kr/)
+#### [Link to the website](https://iclc2021.govent.io/)
 참고 - 현재는 행사기간이 아닌 관계로 대부분의 기능에 대한 접근이 차단되었습니다.
 
-[![Watch the video](assets/virtual_seoul2.gif)](http://virtualseoul.or.kr/)
+[![Watch the video](assets/virtual_seoul2.gif)](https://iclc2021.govent.io/)
 
 ### 데모 영상
 
@@ -70,7 +70,7 @@
 
 # Project Description
 
-이 플랫폼은 [Union of International Associations(UIA)](https://uia.org/) 그리고 [Seoul Tourism Organization(STO)](http://www.sto.or.kr/english/index)의 온라인 컨퍼런스 행사를 위해 만들어졌습니다.
+이 플랫폼은 [국제협회연합(UIA)](https://uia.org/) 그리고 [서울관광재단(STO)](http://www.sto.or.kr/english/index)의 온라인 컨퍼런스 행사를 위해 만들어졌습니다.
 
 - 개발 기간: 2020.06 ~ 2020.09
 - 유지보수 기간: 2020.09 ~ 2021.04
@@ -108,14 +108,17 @@
 
 ### 1. 이 프로젝트의 성공은 10개 이상의 추가적인 계약을 성사 시켰습니다.
 
-#### 참조 - 본인이 작업했던 온라인 컨퍼런스 행사의 리스트입니다. 
-- [KHA Online Conference & Exhibition](https://khc2020.salin.co.kr) ( Korean Hospital Association ) 데모 계정 ID: host01@salin.co.kr PW: 1234
-- [Siemens Online Conference & Exhibition](https://khc2020.salin.co.kr) 데모 계정 ID: abc@abc.com PW: 1234
-- Asia TEFL Online Conference (Teaching English as a second or foreign language)
+참여했던 온라인 컨퍼런스 행사의 리스트입니다. 
+- [IOHA2021 국제 온라인 학술대회 & 전시회](https://ioha2021conference.org/)
+- [유네스코 국제 온라인 컨퍼런스](https://iclc2021.govent.io/)
+- [한국병원협회 온라인 컨퍼런스 & 전시회](https://khc2020.salin.co.kr) 데모 계정 ID: host01@salin.co.kr PW: 1234
+- [지멘스 온라인 컨퍼런스 & 전시회](https://khc2020.salin.co.kr) 데모 계정 ID: abc@abc.com PW: 1234
+- Asia TEFL 국제 온라인 컨퍼런스
+- 인천국제공항공사 온라인 컨퍼런스
 
 ### 2. 재사용 가능한 컴포넌트와 API를 만들었습니다.
 
-#### 참조 - [codesandbox]에 제작된 재사용 가능한 라디오 버튼입니다. (https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx).
+#### 참조 - [Code Sandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx)에 제작된 재사용 가능한 라디오 버튼입니다. 
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
@@ -124,7 +127,7 @@
 #### [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
-Crontab (scheduling jobs)은 구현하는 것이 복잡할 뿐만 아니라 테스트하기도 까다로운 기능입니다. 하지만 플랫폼 특성상 이 기능은 매번 필요했습니다. 그 때마다 기능구현을 반복하는 것보다 모듈화해 매번 필요할 때마다 재사용하는 것이 효율적일 것이라 생각했습니다. 그래서 react-crontab 모듈화를 이행했으며, 작업 후 NPM에 open-source형태로 퍼블리싱해 누구나 쉽게 사용할 수 있게 제공했습니다. 현재 주당 평균 300명의 유저가 다운로드 받고 있습니다. 
+프런트 엔드에 Crontab(job scheduling)기능을 구현하는 것은 매번 필요했지만 구현하는데 많은 시간과 노력이 소비되었고 테스트하기도 까다로웠습니다. 필요할 때마다 구현을 반복하는 것보다 쉽게 재사용할 수 있도록 모듈화하는 것이 효율적일 것이라 생각하였습니다. [react-crontab](https://www.npmjs.com/package/reactjs-crontab)의 이름으로 모듈화를 이행했으며, 작업 후 NPM에 open-source형태로 퍼블리싱해 누구나 쉽게 사용할 수 있게끔 제공했습니다. 현재 주당 평균 200명의 유저가 다운로드 받고 있습니다. 
 
 # Note
 회사의 규정 상 본 프로젝트의 소스코드를 제공할 수 없습니다. 양해 부탁드립니다.
