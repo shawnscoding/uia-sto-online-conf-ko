@@ -111,8 +111,8 @@
 참여했던 온라인 컨퍼런스 행사의 리스트입니다. 
 - [IOHA2021 국제 온라인 학술대회 & 전시회](https://ioha2021conference.org/)
 - [유네스코 국제 온라인 컨퍼런스](https://iclc2021.govent.io/)
-- [한국병원협회 온라인 컨퍼런스 & 전시회](https://khc2020.salin.co.kr) 데모 계정 ID: host01@salin.co.kr PW: 1234
-- [지멘스 온라인 컨퍼런스 & 전시회](https://khc2020.salin.co.kr) 데모 계정 ID: abc@abc.com PW: 1234
+- [한국병원협회 온라인 컨퍼런스 & 전시회](https://khc2020.salin.co.kr) 
+- [지멘스 온라인 컨퍼런스 & 전시회](https://siemens-evavconference.govent.io) 
 - Asia TEFL 국제 온라인 컨퍼런스
 - 인천국제공항공사 온라인 컨퍼런스
 
@@ -124,7 +124,7 @@
 
 ### 3. 이 프로젝트는 본인이 리액트 오픈소스를 제작하게 되는 동기가 되었습니다.
 
-#### [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
+#### [Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
 프런트 엔드에 Crontab(job scheduling)기능을 구현하는 것은 매번 필요했지만 구현하는데 많은 시간과 노력이 소비되었고 테스트하기도 까다로웠습니다. 필요할 때마다 구현을 반복하는 것보다 쉽게 재사용할 수 있도록 모듈화하는 것이 효율적일 것이라 생각하였습니다. [react-crontab](https://www.npmjs.com/package/reactjs-crontab)의 이름으로 모듈화를 이행했으며, 작업 후 NPM에 open-source형태로 퍼블리싱해 누구나 쉽게 사용할 수 있게끔 제공했습니다. 현재 주당 평균 200명의 유저가 다운로드 받고 있습니다. 
