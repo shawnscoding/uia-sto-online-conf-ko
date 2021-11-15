@@ -1,4 +1,4 @@
-# UIA & STO Online Conference
+# 국제협회연합(UIA) & 서울관광재단(STO) 3D Online Conference
 
 [![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
