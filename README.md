@@ -122,12 +122,12 @@
 
 ![reusable-component.gif](assets/reusable_component.gif)
 
-### 3. 이 프로젝트는 본인이 리액트 오픈소스를 제작하게 되는 동기가 되었습니다.
+### 3. 프로젝트에서 동기를 받아 리액트 오픈소스를 제작하였습니다.
 
 #### [Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
-많은 애플리케이션에서 Crontab (Job Scheduling) 기능을 필요로 합니다. 하지만 NPM 커뮤니티에 무료로 사용 가능한 오픈소스가 없다는 사실을 알게 되었고 이를 동기로 오픈소스 제작하여 전 세계 리액트 개발자에게 기여하게 되었습니다. 
+많은 애플리케이션에서 Crontab (Job Scheduling) 기능을 필요로 한다는 것을 알게 되었고 오픈소스 형태로 제작해 NPM 커뮤니티에 기여하였습니다.
 
 # Note
 회사의 규정 상 본 프로젝트의 소스코드를 제공할 수 없습니다. 양해 부탁드립니다.
