@@ -106,7 +106,7 @@
 
 # Achievement
 
-### 1. 이 프로젝트의 성공은 10개 이상의 추가적인 계약을 성사 시켰습니다.
+### 10개 이상의 추가적인 계약을 성사 시켰습니다.
 
 참여했던 온라인 컨퍼런스 행사의 리스트입니다. 
 - [IOHA2021 국제 온라인 학술대회 & 전시회](https://ioha2021conference.org/)
@@ -116,18 +116,20 @@
 - Asia TEFL 국제 온라인 컨퍼런스
 - 인천국제공항공사 온라인 컨퍼런스
 
-### 2. 재사용 가능한 컴포넌트와 API를 만들었습니다.
-
-#### 참조 - [Code Sandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx)에 제작된 재사용 가능한 라디오 버튼입니다. 
-
-![reusable-component.gif](assets/reusable_component.gif)
-
-### 3. 프로젝트에서 동기를 받아 리액트 오픈소스를 제작하였습니다.
+### 2. 프로젝트에서 동기를 받아 리액트 오픈소스를 제작하였습니다.
 
 #### [Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
 많은 애플리케이션에서 Crontab (Job Scheduling) 기능을 필요로 한다는 것을 알게 되었고 오픈소스 형태로 제작해 NPM 커뮤니티에 기여하였습니다.
+
+### 3. 재사용 가능한 컴포넌트와 API를 만들었습니다.
+
+#### 참조 - [Code Sandbox](https://codesandbox.io/s/radio-3mtce?file=/src/App.jsx)에 제작된 재사용 가능한 라디오 버튼입니다. 
+
+![reusable-component.gif](assets/reusable_component.gif)
+
+
 
 # Note
 회사의 규정 상 본 프로젝트의 소스코드를 제공할 수 없습니다. 양해 부탁드립니다.
