@@ -20,7 +20,6 @@
 
 - Front-end 시스템 디자인 
 - Expressjs RESTful API 구현
-- Mysql 쿼리문 구현  
 - 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
 - User Authentication
 - 라이브 스트리밍, 비디오 스트리밍 스케줄링
@@ -28,8 +27,8 @@
 - 브라우저 호환 (Chrome, Safari, Firefox, MS Edge, IE11)
 - 반응형 디자인 (모바일 기기, 테블릿 지원)
 - 앱 내 유저 액티비티 통계 산출
-- Gitlab Admistration
-- 한국어 영어 번역
+- Gitlab Administration
+- 유저 가이드 & FAQ 영문본 작성
 - 외국인 유저 기술 지원 & 상담
 
 
