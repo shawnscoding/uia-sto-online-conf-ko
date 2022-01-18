@@ -18,17 +18,19 @@ Summary: 저의 업무는 Reactjs와 Nodejs를 사용해 서울관광재단 3D �
 
 ### 본 프로젝트에서의 저의 업무 내용입니다:
 
-- Front-end 시스템 디자인 
-- Expressjs RESTful API 구현
-- 리액트 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
+- Front-end 시스템 디자인
+- Expressjs로 RESTful API 구현
+- 리액트 UI 컴포넌트 생성 (tables, banners, poppers, Modals, buttons 등)
+- Webpack, Babel 환경 설정
 - User Authentication
 - 라이브 스트리밍, 비디오 스트리밍 스케줄링
-- SMS, 푸시 알림 기능 구현
+- SMS, 푸시 알림 구현
+- 사이트 최적화 (Webpack, Code Splitting, Lazy Load, HTTP Response Data Cache, CDN) 
 - 브라우저 호환성 검사 (Chrome, Safari, Firefox, MS Edge, IE11)
 - 반응형 디자인 (모바일 기기, 태블릿 지원)
-- 앱 내 유저 액티비티 통계 산출
+- 유저 액티비티 통계 산출
 - Gitlab Administration
-- 유저 가이드 & FAQ 영문본 작성
+- 유저 가이드, FAQ 영문 본 작성
 - 외국인 유저 기술 지원 & 상담
 
 
