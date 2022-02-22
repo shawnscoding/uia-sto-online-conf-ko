@@ -25,7 +25,7 @@ Summary: 저의 업무는 Reactjs와 Nodejs를 사용해 서울관광재단 3D �
 - User Authentication
 - 라이브 스트리밍, 비디오 스트리밍 스케줄링
 - SMS, 푸시 알림 구현
-- 사이트 최적화 (Webpack, Code Splitting, Lazy Load, HTTP Response Data Cache, CDN) 
+- 사이트 최적화 (Webpack, Code Splitting, Lazy Load, HTTP Request Cache, CDN) 
 - 브라우저 호환성 검사 (Chrome, Safari, Firefox, MS Edge, IE11)
 - 반응형 디자인 (모바일 기기, 태블릿 지원)
 - 유저 액티비티 통계 산출
