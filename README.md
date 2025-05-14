@@ -57,7 +57,7 @@ AWS (EC2, RDS, S3, CloudFront)
 
 - [서울맵](https://www.youtube.com/watch?v=gk_nKkCsTk4)
 - [라이브 스트리밍](https://www.youtube.com/watch?v=8vVmP6UIFrc)
-- [화상 채팅](https://www.youtube.com/watch?v=edzgNn5f5yQ)
+- [화상 채팅](https://youtu.be/PVcj9uIvixo)
 
 
 ## Main features
