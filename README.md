@@ -16,8 +16,8 @@ AWS (EC2, RDS, S3, CloudFront)
 - Express.js 기반 REST API 구현
 - 유저 인증 인가 기능 구현
 - MySQL 데이터베이스 관리
-- 소켓 기반 푸시 알림 구현
-- React 웹페이지 개발
+- Socket.io 기반 푸시 알림 구현
+- React 기반 웹페이지 개발
 - Webpack, Babel 환경 커스텀
 - 사이트 최적화 (Webpack, Code Splitting, Lazy Load, SWR, CDN) 
 - 브라우저 호환성 검사 (Chrome, Safari, Firefox, MS Edge, IE11)
@@ -89,7 +89,7 @@ AWS (EC2, RDS, S3, CloudFront)
 ### 이후 수주 성과
 온라인 행사 솔루션 기업으로 진출하는 발판이 되었고, B2B 클라이언트 온라인 플랫폼을 연이어 개발하게 되었습니다.
 
-이후 클라이언트
+STO 외 기업 대상 프로젝트
 - [IOHA2021 국제 온라인 학술대회 & 전시회](https://ioha2021conference.org/)
 - [유네스코 국제 3D 온라인 컨퍼런스](https://iclc2021.govent.io/)
 - [한국병원협회 온라인 컨퍼런스 & 전시회](https://khc2020.salin.co.kr) 
