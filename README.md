@@ -7,14 +7,15 @@
 
 ## Tech Stack
 
-Expressjs, Redis, Socket.io, Reactjs, Babylon.js, MySQL
+Expressjs, Socket.io, Reactjs, Babylon.js, MySQL   
+AWS (EC2, RDS, S3, CloudFront)
 
 
 ## Role & Responsibility
 
 - Express.js 기반 REST API 구현
 - 유저 인증 인가 기능 구현
-- 유저, 라이브 스트리밍, 비디오 등 DB 데이터 관리
+- MySQL 데이터베이스 관리
 - 소켓 기반 푸시 알림 구현
 - React 웹페이지 개발
 - Webpack, Babel 환경 커스텀
