@@ -2,7 +2,7 @@
 
 [![Watch the video](assets/virtual_seoul2.gif)](https://wclf2021.miceworld.or.kr/)
 
-> 26개국 대상, DAU 3000~5000명 Web 기반 국제 행사 플랫폼.  
+> 26개국 대상, DAU 3000~5000명 웹 기반 국제 행사 플랫폼 
 
 
 ## Tech Stack
